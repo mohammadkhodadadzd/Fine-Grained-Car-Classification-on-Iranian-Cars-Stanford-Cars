@@ -153,7 +153,7 @@ Images are high‑resolution product shots (≥1024 px) with clean backgrounds
 <summary>Classification Report — Swin‑T Tiny (196 classes)</summary>
 
 ```text
-[Full 196‑class report — see `assets/stanford_swin_classification_report.txt`]
+[Full report—omitted for brevity; see notebook]
 ```
 
 </details>
@@ -162,7 +162,7 @@ Images are high‑resolution product shots (≥1024 px) with clean backgrounds
 <summary>Classification Report — SelfAttention‑ResNet50 (196 classes)</summary>
 
 ```text
-[Full 196‑class report — see `assets/stanford_sa50_classification_report.txt`]
+[Full report—omitted for brevity; see notebook]
 ```
 
 </details>
