@@ -7,7 +7,6 @@
 | `swintransformer-sa-resnet50-ir-cars.ipynb` | **Swin‑T Tiny** and **SelfAttention‑ResNet50** | Iranian Cars (14 classes)   | Trains **two distinct networks** from scratch—one transformer, one ResNet50 augmented with self‑attention blocks |
 | `fgic-stanford-car.ipynb`                   | **Swin‑T Tiny** and **SelfAttention‑ResNet50** | Stanford Cars (196 classes) | Repeats the transformer vs. self‑attention‑ResNet comparison on the canonical Stanford Cars benchmark            |
 
-> **Note:** The notebooks run **Swin‑T** and **SelfAttention‑ResNet50** in separate training loops—**no distillation, no CBAM, no channel‑or‑spatial separate attention**. Every attention mechanism used is *self‑attention* in the sense of computing a query‑key‑value similarity matrix.
 
 ---
 
