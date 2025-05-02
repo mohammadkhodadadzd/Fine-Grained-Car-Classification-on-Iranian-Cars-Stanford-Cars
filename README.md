@@ -77,10 +77,10 @@ Images are high‑resolution product shots (≥1024 px) with clean backgrounds
 
 ### 4.1 Iranian Cars
 
-| Model                      | Top‑1 Acc   | Top‑5 Acc | Macro Prec. | Macro Rec. | Params |
-| -------------------------- | ----------- | --------- | ----------- | ---------- | ------ |
-| **Swin‑T Tiny**            | **98.88 %** | 99.95 %   | 98.90 %     | 98.88 %    | 28 M   |
-| **SelfAttention‑ResNet50** | 98.44 %     | 99.93 %   | 98.43 %     | 98.50 %    | 29 M   |
+| Model                      | Top‑1 Acc   | Top‑5 Acc | Macro Prec. | Macro Rec. | 
+| -------------------------- | ----------- | --------- | ----------- | ---------- | 
+| **Swin‑T Tiny**            | **98.88 %** | 99.95 %   | 98.90 %     | 98.88 %    | 
+| **SelfAttention‑ResNet50** | 98.44 %     | 99.93 %   | 98.43 %     | 98.50 %    | 
 
 *Test set size: 1 474 images*
 
@@ -142,10 +142,10 @@ Images are high‑resolution product shots (≥1024 px) with clean backgrounds
 
 ### 4.2 Stanford Cars
 
-| Model                      | Top‑1 Acc   | Top‑5 Acc | Macro Prec. | Macro Rec. | Params |
-| -------------------------- | ----------- | --------- | ----------- | ---------- | ------ |
-| **Swin‑T Tiny**            | **84.39 %** | 96.84 %   | 84.83 %     | 84.40 %    | 28 M   |
-| **SelfAttention‑ResNet50** | 81.02 %¹    | 96.10 %¹  | 81.30 %¹    | 81.00 %¹   | 29 M   |
+| Model                      | Top‑1 Acc   | Top‑5 Acc | Macro Prec. | Macro Rec. | 
+| -------------------------- | ----------- | --------- | ----------- | ---------- |
+| **Swin‑T Tiny**            | **84.39 %** | 96.84 %   | 84.83 %     | 84.40 %    | 
+| **SelfAttention‑ResNet50** | 81.02 %¹    | 96.10 %¹  | 81.30 %¹    | 81.00 %¹   | 
 
 *Test set size: 8 041 images*
 
